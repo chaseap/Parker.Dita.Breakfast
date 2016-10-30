@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jll_z1t_sx">
+    <title>Blueberry Oatmeal Waffles </title>
+    <shortdesc>This vegan waffle recipe will have your taste buds screaming "thank you!" <image
+            href="../waffles.jpg" id="image_djm_kn2_5x"/></shortdesc>
+    <taskbody>
+        <context>Below are the ingredients and instructions for how to make this delicious breakfast
+            food. <note>You will need a waffle iron </note><p><b>Ingredients:</b><ul
+                    id="ul_ahm_5s1_tx">
+                    <li>1 cup white whole wheat flour</li>
+                    <li>1 tablespoon baking powder</li>
+                    <li>½ teaspoon salt</li>
+                    <li>¼ teaspoon ground allspice</li>
+                    <li>1 cup quick cooking oats</li>
+                    <li>1/3 cup unsweetened applesauce</li>
+                    <li>1 ½ cups unsweetened almond milk</li>
+                    <li>3 tablespoons pure maple syrup</li>
+                    <li>2 tablespoons canola oil</li>
+                    <li>1 teaspoon pure vanilla extract</li>
+                    <li>1 ½ cups frozen blueberries<p><b>Steps: </b><ol id="ol_jbv_dt1_tx">
+                                <li>Sift flour, baking powder, salt and allspice into mixing bowl. </li>
+                                <li>Mix in oats</li>
+                                <li>Make well in the center and add applesauce, milk, maple syrup,
+                                    oil and vanilla</li>
+                                <li>Stir until combined</li>
+                                <li>Let batter rest for five minutes, then fold in blueberries</li>
+                                <li>Cook in waffle iron according to manufacturer directions</li>
+                            </ol></p></li>
+                </ul></p></context>
+    </taskbody>
+</task>

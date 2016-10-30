@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>DITA Topic Map</title>
+ <topicref href="mom/Title%20for%20Mom.dita"/>
+ <topicref href="mom/Recipe%20for%20mom.dita"/>
+ <topicref href="mom/T%20=%20Drink%20for%20both%20mom%20and%20Armando.dita"/>
+ <topicref href="Armando/T=%20Armando%20and%20mom%20French%20Toast.dita"/>
+ <topicref href="Armando/T=%20Armando%20and%20Mom%20Pancakes.dita"/>
+</map>

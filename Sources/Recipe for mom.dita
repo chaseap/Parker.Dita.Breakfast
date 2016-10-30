@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_kxy_xvv_tx">
+    <title>Bacon-wrapped sausage            </title>
+    <shortdesc>Good thing you like meat! This is an awesome way to combine two favorite breakfast
+        foods into one. <image href="../Bacon+Wrapped+Smokies2.jpg" scale="70" id="image_ugk_kr2_5x"
+        /></shortdesc>
+    <taskbody>
+        <context>Below are the ingredients and steps that will tell you how to make delicious
+            bacon-wrapped sausages.<p><b>Ingredients: </b><ul id="ul_rkf_kwv_tx">
+                    <li>1 pound of bacon</li>
+                    <li>2 pounds of smoked sausage</li>
+                    <li>2 table spoons of chili pepper flakes</li>
+                    <li>¾ teaspoon of brown sugar (per sausage)<p><b>Steps:</b></p></li>
+                </ul></p></context>
+        <steps>
+            <step>
+                <cmd>Cut bacon strips in half length-wise.</cmd>
+            </step>
+            <step>
+                <cmd>Cut sausage into pieces that are about the same width of the bacon
+                    strips.</cmd>
+            </step>
+            <step>
+                <cmd>Wrap the ½ strips of bacon around the sausages and hold it in place with a
+                    toothpick or fork. </cmd>
+            </step>
+            <step>
+                <cmd>Place them on top of a cookie sheet and sprinkle the pepper flakes on top of
+                    each sausage. </cmd>
+            </step>
+            <step>
+                <cmd>Top each sausage with a loose ½-3/4 tablespoon scoop of brown sugar. </cmd>
+            </step>
+            <step>
+                <cmd>Put the oven on 300 degrees fahrenheit and place the cookie sheet in there for
+                    45-60 minutes. </cmd>
+            </step>
+            <step>
+                <cmd>Once the brown sugar is melted down, they are ready to take out, let cool, and
+                    enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ubr_2bb_tx">
+    <title>Lemon Pancake             </title>
+    <shortdesc>Don't let the lemon fool you. These pancakes aren't sour, but they are mighty tasty!
+        This will also work for both Armando and Mom! All you need to do is use either mashed
+        bananas or eggs, respectively! <image href="../pancake.jpg" scale="70" id="image_rwt_dr2_5x"
+        /></shortdesc>
+    <taskbody>
+        <context>Below are the ingredients and steps that tell you how to make lemon vegan pancakes.
+                    <p><b>Ingredients: </b><ul id="ul_skb_kbb_tx">
+                    <li>1 cup vanilla, soy, or almond milk</li>
+                    <li>1 cup and 1 tablespoon of flour</li>
+                    <li>1 tablespoon of lemon juice with ½ tablespoon of fresh zest</li>
+                    <li>1/3 tablespoon of vanilla extract</li>
+                    <li>3 tablespoons of baking powder</li>
+                    <li>2 tablespoons sugar</li>
+                    <li>¼ tablespoon of salt</li>
+                    <li>2 tablespoons of oil</li>
+                    <li>Dash of cinnamon</li>
+                    <li id="eggs" audience="mom">Eggs (for Mom)</li>
+                    <li id="MashedBananas" audience="Armando">Mashed banana (for Armando)<p><b>Steps: </b><ol id="ol_zbr_tbb_tx">
+                                <li>Add dry ingredients into a tall bowl and stir them all
+                                    together.</li>
+                                <li>Add wet ingredients and fold well. </li>
+                                <li>*For mom: Add eggs with lemon juice and zest. Then Whip all
+                                    ingredients together. </li>
+                                <li>*For Armando: Add mashed banana and lemon juice and zest. Then
+                                    whip all ingredients together. </li>
+                                <li>Put burner on low as you warm your skillet or frying pan. You
+                                    will want the pan to be evenly hot before you start to cook the
+                                    pancake. </li>
+                                <li>Add a small splash of oil to your pan and distribute it around
+                                    the pan evenly. Then add ½ cup or so of batter and allow it to
+                                    spread in the pan. Put the burner on medium heat setting. </li>
+                                <li>Allow pancake to slowly cook, and flip the pancake once the
+                                    edges begin to form and the batter is fluffly – not wet. </li>
+                                <li>Once both sides are a brownish-golden color, you can take the
+                                    pancakes off of the pan and serve them on a plate!</li>
+                            </ol></p></li>
+                </ul></p></context>
+    </taskbody>
+</task>

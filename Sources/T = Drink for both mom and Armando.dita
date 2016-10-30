@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mxj_zsw_tx">
+    <title>Hot Chocolate</title>
+    <shortdesc>This is a hot chocolate recipe that will work for both Armando and Mom. All you need
+        to do is use the correct milk and you're all set! <image href="../hot%20coco.jpg" scale="55"
+            id="image_ds2_zs2_5x"/></shortdesc>
+    <taskbody>
+        <context>Below are the ingredients and steps needed to make some tasty hot chocolate.
+                    <p><b>Ingredients:</b><ul id="ul_tfn_15w_tx">
+                   <li id="AlmondMilk" audience="Armando">2 cups almond milk (for Armando)</li>
+                   <li id="WholeMilk" audience="Mom">2 cups whole milk (for Mom)</li> <li>2 tablespoons cocoa powder</li>
+                    <li>1 tablespoon maple syrup</li>
+                    <li>pumpkin pie spice or cinnamon (optional)<p><b>Steps:</b><ol
+                                id="ol_d33_1vw_tx">
+                                <li>Place all ingredients in a medium size sauce pan</li>
+                                <li>Add either pumpkin pie spice or cinnamon (whichever is
+                                    desired)</li>
+                                <li>Bring to a boil and then reduce heat to a simmer for 2-3
+                                    minutes</li>
+                                <li>Enjoy!</li>
+                            </ol></p></li>
+                </ul></p></context>
+    </taskbody>
+</task>

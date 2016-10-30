@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nhg_4w1_tx">
+    <title>French Toast                </title>
+    <shortdesc>Here's a recipe that will work for both Armando and Mom! All you need to do is switch
+        out the milks and you're good! <image href="../french%20toast.jpg" id="image_kpg_pn2_5x"
+        /></shortdesc>
+    <taskbody>
+        <context>Below are the ingredients and steps that will tell you how to make vegan French
+            toast. <p><b>Ingredients: </b><ul id="ul_brj_bx1_tx">
+                    <li>6 slices of bread, sliced about ¾ inch thick</li>
+                    <li>1 cup Milk</li>
+                    <li id="AlmondMilk" audience="Armando">Use almond milk (Armando)</li>
+                    <li id="WholeMilk" audience="mom">Use whole milk (mom)</li>
+                    <li>1 tablespoon maple syrup, plus more for serving</li>
+                    <li>2 tablespoons millet flour</li>
+                    <li>1 tablespoon nutritional yeast</li>
+                    <li>1 teaspoon cinnamon</li>
+                    <li>¼ teaspoon freshly ground nutmeg</li>
+                    <li>Tiny pinch of salt</li>
+                    <li>Coconut oil for the pan</li>
+                    <li>Any toppings you want (sugar, fruites, syrup, etc.)<p><b>Steps: </b><ol
+                                id="ol_qsr_lx1_tx">
+                                <li>In a small bowl, whisk milk, maple syrup, flour, nutritional
+                                    yeast, cinnamon, nutmeg and salt together. </li>
+                                <li>Place the bread in a shallow dish (with sides) that holds all of
+                                    the bread. Pour mixture over the bread, then lift or flip the
+                                    bread over to make sure both sides are coated. </li>
+                                <li>Heat a drizzle of coconut oil in a large skillet over medium
+                                    heat and add the bread once the bread is hot. Once one side gets
+                                    golden, flip the bread and cook both sides evenly. </li>
+                                <li>Take bread off of the pan when both sides are golden-brown and
+                                    serve with any topping you'd like. </li>
+                            </ol></p></li>
+                </ul></p></context>
+    </taskbody>
+</task>

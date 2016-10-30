@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_b1y_hww_tx">
+    <title>Vegan New Orleans Coffee      </title>
+    <shortdesc>New Orleans coffee is known for its chocolate-caramel flavor. It captures the culture
+        of one of America's most famous cities and there is a way to make it work for vegans! <image
+            href="../coffee.jpg" scale="65" id="image_v33_3s2_5x"/></shortdesc>
+    <taskbody>
+        <context>Below are the ingredients and steps needed to make vegan New Orleans
+                    coffee.<p><b>Ingredients:</b><ul id="ul_gv1_5ww_tx">
+                    <li>4 tablespoons of drip-ground coffee</li>
+                    <li>2 tablespoons of chicory</li>
+                    <li>¼ tablespoon of salt</li>
+                    <li>4 cups of filtered water</li>
+                    <li>Sugar<p><b>Steps:</b><ol id="ol_cny_nxw_tx">
+                                <li>Set up your coffee maker so you can add water into the filter
+                                    anually.</li>
+                                <li>Place the coffee, chicory and salt into filter in brewing
+                                    basket</li>
+                                <li>Bring the water to a boil</li>
+                                <li>Add enough water to moisten the grounds and chicory, then pour ½
+                                    cup of water into filter</li>
+                                <li>Wait for the water to drip through, then add another ½ cup of
+                                    water. Repeat until you have brewed all 4 cups</li>
+                                <li>Add your preferred amount of sugar </li>
+                                <li>Serve while still steaming</li>
+                            </ol></p></li>
+                </ul></p></context>
+    </taskbody>
+</task>
