@@ -1,0 +1,8 @@
+fil = new Array();
+fil["0"]= "Desktop/Armando/References.html@@@References@@@http://coffeetea.about.com/od/preparationandrecipes/r/NewOrleansBlackCoffee.htm http://greatist.com/eat/recipes/vegan-hot-chocolate http://www.food.com/recipe/bacon-wrapped-sausages-459167...";
+fil["1"]= "Desktop/Armando/T= Armando New Orleans Coffee.html@@@Vegan New Orleans Coffee@@@New Orleans coffee is known for its chocolate-caramel flavor. It captures the culture of one of America s most famous cities and there is a way to make it work for vegans!...";
+fil["2"]= "Desktop/Armando/T= Armando Waffles.html@@@Blueberry Oatmeal Waffles@@@This vegan waffle recipe will have your taste buds screaming  thank you!...";
+fil["3"]= "Desktop/Armando/T= Armando and Mom Pancakes.html@@@Lemon Pancake@@@Don t let the lemon fool you. These pancakes aren t sour, but they are mighty tasty! This will also work for both Armando and Mom! All you need to do is use either mashed bananas or eggs, respectively!...";
+fil["4"]= "Desktop/Armando/T= Armando and mom French Toast.html@@@French Toast@@@Here s a recipe that will work for both Armando and Mom! All you need to do is switch out the milks and you re good!...";
+fil["5"]= "Desktop/Armando/Title for Armando.html@@@Instructions for Armando@@@By: Chase Parker Can t use milk or eggs? No problem! These vegan (and awesome) breakfast recipes will start your day off right!...";
+fil["6"]= "Desktop/mom/T = Drink for both mom and Armando.html@@@Hot Chocolate@@@This is a hot chocolate recipe that will work for both Armando and Mom. All you need to do is use the correct milk and you re all set!...";
